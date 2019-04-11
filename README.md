@@ -18,3 +18,7 @@
 ### `npm run build`
 
 运行编译生产代码，进行压缩打包
+
+### 参考
+
+[Beyond Create React App: React Router, Redux Saga, and More](https://auth0.com/blog/beyond-create-react-app-react-router-redux-saga-and-more/)
