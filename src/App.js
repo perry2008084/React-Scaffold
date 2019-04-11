@@ -4,6 +4,13 @@ import './App.css';
 
 class App extends Component {
   render() {
+    foo(
+      reallyLongArg(),
+      omgSoManyParameters(),
+      IShouldRefactorThis(),
+      isThereSeriouslyAnotherOne()
+    );
+
     return (
       <div className="App">
         <header className="App-header">
